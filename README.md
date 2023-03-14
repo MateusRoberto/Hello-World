@@ -1,4 +1,4 @@
-Myy first java program
+My first java program, "Hello World!"
 
 
 
